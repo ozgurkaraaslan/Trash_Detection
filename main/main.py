@@ -39,6 +39,6 @@ if __name__ == "__main__":
     if len(sys.argv) > 1:
         image_path = sys.argv[1]
         prediction = predict_image_class(image_path)
-        print(f"Predicted Class for '{image_path}':", prediction)
+        print(f"\nPredicted Class for '{image_path}':", prediction)
     else:
         print("Please provide an image path.")
