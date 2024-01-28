@@ -6,9 +6,9 @@ This project aims to classify different types of waste products. These types are
 
 - Download the repository.
 
-- Download data to the same path with `model.py`
+- Download data to the same path with `model.py`.
 
-- Run the model.py file with `python ./model.py` or `python3 ./model.py`
+- Run the model.py file with `python ./model.py` or `python3 ./model.py`.
 
 - To use your trained model, move `trash_classifier.h5` file inside of the `main` folder.
 
